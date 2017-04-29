@@ -1,5 +1,5 @@
-D:\gitrepository\common-service\src\main\java\com\cg\common\common_service\App.java
-D:\gitrepository\common-service\src\main\java\com\cg\common\common_service\NetHelper.java
-D:\gitrepository\common-service\src\main\java\com\cg\common\common_service\FileHelper.java
-D:\gitrepository\common-service\src\main\java\com\cg\common\common_service\ExecuteHelper.java
-D:\gitrepository\common-service\src\main\java\com\cg\common\common_service\JSONHelper.java
+D:\gitrepository\common-service\src\main\java\com\cg\common\util\ExecuteHelper.java
+D:\gitrepository\common-service\src\main\java\com\cg\common\util\FileHelper.java
+D:\gitrepository\common-service\src\main\java\com\cg\common\util\UtilTest.java
+D:\gitrepository\common-service\src\main\java\com\cg\common\util\JSONHelper.java
+D:\gitrepository\common-service\src\main\java\com\cg\common\util\NetHelper.java
